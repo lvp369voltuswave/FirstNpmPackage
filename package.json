@@ -1,0 +1,22 @@
+{
+  "name": "is-lvp",
+  "version": "1.0.0",
+  "description": "is the string isLvp?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvp369voltuswave/FirstNpmPackage.git"
+  },
+  "keywords": [
+    "isLvp"
+  ],
+  "author": "Lvp Simplified Lvp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lvp369voltuswave/FirstNpmPackage/issues"
+  },
+  "homepage": "https://github.com/lvp369voltuswave/FirstNpmPackage#readme"
+}
