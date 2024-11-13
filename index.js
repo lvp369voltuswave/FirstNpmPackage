@@ -1,4 +1,4 @@
 function isLvp(string){
-    return string === 'ISLVP';
+    return string === 'LVP';
 }
 module.exports = isLvp;
