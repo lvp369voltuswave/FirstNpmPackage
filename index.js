@@ -1,4 +1,4 @@
-const isLvp = (string)=>{
+function isLvp(string){
     return string === 'ISLVP';
 }
 module.exports = isLvp;
